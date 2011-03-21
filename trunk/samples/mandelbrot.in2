@@ -1,0 +1,8 @@
+width     =   512
+height    =   512
+maxRows   =    12
+maxIters  = 10000
+xmin      = -2.00
+xmax      =  2.00
+ymin      = -2.00
+ymax      =  2.00
