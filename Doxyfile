@@ -1,0 +1,4 @@
+JAVADOC_AUTOBRIEF       =   YES
+DETAILS_AT_TOP          =   YES
+TYPEDEF_HIDES_STRUCT    =   YES
+INPUT                   =   api/include/dcgn/dcgn.h
